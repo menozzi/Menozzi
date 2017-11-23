@@ -1,7 +1,4 @@
 # Menozzi
-Menozzi's Homepage
-<h1> This is a heading </h1> 
-<p> This is a paragraph tag </p> 
 <!DOCTYPE html>
 <html>
 <title>Menozzi Portfolio</title>
